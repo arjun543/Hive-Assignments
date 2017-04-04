@@ -1,0 +1,2 @@
+# Hive-Assignments
+Hive queries
